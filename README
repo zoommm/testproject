@@ -130,4 +130,7 @@ run these:
 ### music
 
 serach "the pretty reckless"
-
+# search
+use hen de xxx serach;
+find . -exec grep -i peter {} +;
+find .|grep peter;
